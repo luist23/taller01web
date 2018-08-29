@@ -1,0 +1,52 @@
+body{
+    background: #767de4;
+}
+
+hr {
+    max-width: 90%;
+}
+
+div{
+    width: fit-content;
+    max-width: fit-content;
+    
+}
+
+.content{
+    background: whitesmoke;
+    margin : 10% auto;
+    max-width: 1200px;
+    border: 10px solid;
+    padding: 3em
+
+}
+
+h1{
+    
+    align-content: center;
+    
+}
+
+.search{
+    
+    text-align: right;
+}
+
+.search input{
+    
+    border: 1px solid white;
+}
+
+.search input [type="submit"]:hover{
+    
+    background: blueviolet;
+}
+
+
+.listIcon{
+    background: blue;
+    
+    
+}
+
+
